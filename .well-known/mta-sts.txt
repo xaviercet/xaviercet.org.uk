@@ -1,6 +1,6 @@
 version: STSv1
 mode: testing
 max_age: 604800
-mx: d231127.a.ess.uk.barracudanetworks.com
-mx: d231127.b.ess.uk.barracudanetworks.com
-mx: salesian-surrey-sch-uk.mail.protection.outlook.com
+mx: d231129.a.ess.uk.barracudanetworks.com
+mx: d231129.b.ess.uk.barracudanetworks.com
+mx: xaviercet-org-uk.mail.protection.outlook.com
